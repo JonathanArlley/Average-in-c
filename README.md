@@ -1,0 +1,2 @@
+# Average-in-c
+Practicing
